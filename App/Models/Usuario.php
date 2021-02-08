@@ -162,7 +162,7 @@ class Usuario extends Model {
 				usuarios u
 				inner join (select id_usuario_seguindo 
 							from usuarios_seguidores 
-							where id_usuario = 1) us on us.id_usuario_seguindo = u.id
+							where id_usuario = :id_usuario) us on us.id_usuario_seguindo = u.id
 			where 
 				u.nome like :nome 
 				and u.id != :id_usuario
