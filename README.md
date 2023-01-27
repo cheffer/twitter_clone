@@ -9,7 +9,7 @@ Project I did together with a web dev course cloning the basics of twitter
 ![Stars](https://img.shields.io/github/stars/cheffer/twitter_clone?color=blue)
 ![Issues](https://img.shields.io/github/issues/cheffer/twitter_clone?color=gree)
 
-#Tecn
+# Language and others
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
